@@ -1,0 +1,22 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basis.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LessGrits/Training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LessGrits/Training/issues"
+  },
+  "homepage": "https://github.com/LessGrits/Training#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0"
+  }
+}
