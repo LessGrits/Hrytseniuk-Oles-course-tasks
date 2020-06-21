@@ -1,0 +1,32 @@
+
+.table td{
+    background: #343a40;
+     color:#fff;
+     text-align: center;
+     vertical-align: middle;
+}
+
+.table th{
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.table .table-btn{
+    background: initial;
+    border:none;
+}
+
+.table-cover{
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-warning{
+    color:#fff !important;
+}
+
+.img{
+    width: 200px;
+
+}
