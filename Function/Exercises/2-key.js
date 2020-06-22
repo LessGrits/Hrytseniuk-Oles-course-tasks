@@ -1,6 +1,6 @@
 'use strict';
 
-const generateKey = (length, possible) =>  {
+const generateKey = (length, possible) => {
   const base = possible.length;
   let key = '';
   for (let i = 0; i < length; i++) {
@@ -9,4 +9,5 @@ const generateKey = (length, possible) =>  {
   }
   return key;
 };
+
 module.exports = { generateKey };
